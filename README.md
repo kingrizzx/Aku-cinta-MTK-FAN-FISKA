@@ -95,7 +95,7 @@ DLL (total 50+ fitur)
 
 pkg update && pkg upgrade -y
 pkg install python git -y
-git clone https://github.com/kingisrizzx/ahli-sains-rizzx.git
+git clone https://github.com/kingrizzx/Aku-cinta-MTK-FAN-FISKA/blob/main/README.md
 cd ahli-sains-rizzx
 python sains.py
 
